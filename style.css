@@ -82,3 +82,8 @@ body { background:#f0f2f5; display:flex; justify-content:center; }
   padding:10px 0; font-size:11px; text-align:center;
 }
 .nav-item.active { color:#0d1b4c; font-weight:bold; }
+.course-list a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
