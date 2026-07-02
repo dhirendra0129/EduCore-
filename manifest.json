@@ -1,0 +1,15 @@
+{
+  "name": "EduCore by Dhirendra Sir",
+  "short_name": "EduCore",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0d1b4c",
+  "theme_color": "#0d1b4c",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
